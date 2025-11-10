@@ -1,3 +1,7 @@
+
+https://chatgpt.com/share/691179de-3bcc-8000-8d3f-bc9f55303c34
+
+
 # 🏢 Salesforce Lease Management System
 
 A **Salesforce-based cloud application** designed to automate the **property lease management process** — including **property creation**, **tenant registration**, **lease tracking**, **payment management**, and **approval workflows** — using Salesforce’s declarative and programmatic tools.
